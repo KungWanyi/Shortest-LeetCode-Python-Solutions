@@ -17,7 +17,7 @@
 - 🌟 推荐刷题路线：[**专题探索**](#专题探索) → [腾讯精选50题](https://leetcode-cn.com/problemset/all/?listId=ex0k24j) → [题库解析](#题库解析)
 # 题库解析
 此专栏追求代码的**精简**和**技巧性**，默认已看过题目，🤡 没看过的话点标题可以跳转链接，咱们一起体验炫酷的 Python
-## [1. Two Sum 4行](https://leetcode.com/problems/two-sum/)
+## [1. Two Sum 4行](https://leetcode-cn.com/problems/two-sum/)
 
 ```python
 class Solution:
@@ -28,7 +28,7 @@ class Solution:
 	    d[target-n] = i
 ```
 - O(N)时间效率的快速解法，用字典记录 ｛需要的值:当前索引｝
-## [2. Add Two Numbers 5行](https://leetcode.com/problems/add-two-numbers/)
+## [2. Add Two Numbers 5行](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ```python
 # Definition for singly-linked list.
